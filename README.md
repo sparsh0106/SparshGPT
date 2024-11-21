@@ -44,7 +44,7 @@ This project demonstrates the integration of GPT-based models into a user-friend
 ```plaintext
 SparshGPT/
 │
-├── main.py           # Main Python script containing all functionality
+├── t.py           # Main Python script containing all functionality
 ├── README.md         # Documentation
 └── requirements.txt  # Python dependencies
 ```
