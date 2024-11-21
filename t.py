@@ -1,9 +1,6 @@
 import customtkinter as ctk
 import requests
 import json
-# from tkinter import filedialog, messagebox
-# import time
-
 
 model = "gpt-4o-mini"
 api_key = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDAyNzRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.EXQ2jMCIT-QnLGiWuu0jYhru6YgwBB5xkqQiMnng4O8"
@@ -11,11 +8,9 @@ api_key = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDAyNzRAZHMuc3R1ZHkuaWl0bS5h
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
 
-
 root = ctk.CTk()
 root.geometry("1600x900")
 root.title("SparshGPT")
-
 
 label = ctk.CTkLabel(root, text="Welcome to the SparshGPT (powered by ClosedAI)", font=("Arial", 20))
 label.pack(pady=20)
@@ -132,13 +127,12 @@ def IMAGE():
 
     generate_button = ctk.CTkButton(root_image, text = "Gnerate", command = Generate_Insights)
     generate_button.pack(pady = 20)
-
-
+    
     root_image.mainloop()
+
 
 text_button = ctk.CTkButton(root, text="Text", command = TEXT)
 text_button.pack(pady = 20)
-
 
 image_button = ctk.CTkButton(root, text = "Image", command = IMAGE)
 image_button.pack(pady = 20)
