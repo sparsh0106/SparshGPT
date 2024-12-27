@@ -15,7 +15,6 @@ Link to access the application: [SparshGPT](https://sparshgpt.streamlit.app/)
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -87,3 +86,6 @@ Since ChatGPT is already deployed on **Streamlit Cloud**, you can access it thro
 
 ---
 
+## License
+
+This project is licensed under the MIT license.
