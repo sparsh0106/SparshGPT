@@ -4,6 +4,8 @@ SparshGPT is an AI-powered chat model that allows users to interact with a conve
 
 This project is designed to allow users to quickly interact with an AI model in an easy-to-use web interface, making it ideal for personal projects or for showcasing GPT-based conversational agents.
 
+Link to access the application: [SparshGPT](https://sparshgpt.streamlit.app/)
+
 ---
 
 ## Table of Contents
@@ -72,6 +74,8 @@ To get started with SparshGPT on your local machine, follow these steps:
 
 Since ChatGPT is already deployed on **Streamlit Cloud**, you can access it through the following URL: 
 [SparshGPT - Streamlit](https://sparshgpt.streamlit.app/)
+
+---
 
 ## Technology Used
 
