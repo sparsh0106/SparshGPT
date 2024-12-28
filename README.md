@@ -71,7 +71,7 @@ To get started with SparshGPT on your local machine, follow these steps:
 
 ## Deployment
 
-Since ChatGPT is already deployed on **Streamlit Cloud**, you can access it through the following URL: 
+Since SparshGPT is already deployed on **Streamlit Cloud**, you can access it through the following URL: 
 [SparshGPT - Streamlit](https://sparshgpt.streamlit.app/)
 
 ---
