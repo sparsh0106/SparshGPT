@@ -89,3 +89,9 @@ Since SparshGPT is already deployed on **Streamlit Cloud**, you can access it th
 ## License
 
 This project is licensed under the MIT license.
+
+---
+
+## 👤 Author
+
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
